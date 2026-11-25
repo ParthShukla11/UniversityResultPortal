@@ -86,3 +86,20 @@ PDO is used for connecting PHP with MySQL.
 ## Academic Project
 
 Developed as a DBMS mini-project as part of the Bachelor of Technology in Computer Science and Engineering curriculum.
+
+## Screenshots
+
+### Faculty Dashboard
+![Faculty Dashboard](screenshots/Faculty-Dashboard.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/Student-Dashboard.png)
+
+### Student Result
+![Student Result](screenshots/Student-Result.png)
+
+### Faculty Enter Marks
+![Faculty Enter Marks](screenshots/Faculty-Enter-Marks.png)
+
+### Login Page
+![Login Page](screenshots/Loginpage.png)
