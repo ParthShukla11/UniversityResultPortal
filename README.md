@@ -45,7 +45,6 @@ UniversityResultPortal/
 ├── add_faculty.php
 ├── add_subject.php
 ├── add_semester.php
-├── add_enrollment.php
 ├── add_result.php
 └── style.css
 ```
