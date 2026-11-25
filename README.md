@@ -89,33 +89,32 @@ Developed as a DBMS mini-project as part of the Bachelor of Technology in Comput
 
 ## Screenshots
 
-## Screenshots
-
-## Screenshots
-
 ### Faculty Dashboard
-![Faculty Dashboard](screenshots/Faculty_Dashboard.png)
+![Faculty Dashboard](screenshots/faculty_dashboard.png)
 
 ### Student Dashboard
-![Student Dashboard](screenshots/Student_dashboard.png)
+![Student Dashboard](screenshots/student_dashboard.png)
 
 ### Student Result
-![Student Result](screenshots/Student_Result.png)
+![Student Result](screenshots/student_result.png)
 
 ### Faculty Enter Marks
-![Faculty Enter Marks](screenshots/Faculty_Enter _Marks.png)
+![Faculty Enter Marks](screenshots/faculty_enter_marks.png)
 
 ### Faculty Manage Results
-![Faculty Manage Results](screenshots/Faculty_Manage _Results.png)
+![Faculty Manage Results](screenshots/faculty_manage_results.png)
 
 ### Faculty Subjects
-![Faculty Subjects](screenshots/Faculty_Subjects.png)
+![Faculty Subjects](screenshots/faculty_subjects.png)
 
-### Faculty's Student Result
-![Faculty Student Result](screenshots/Faculty's _Student _Result.png)
+### Faculty Student Result
+![Faculty Student Result](screenshots/faculty_student_result.png)
 
 ### Login Page
-![Login Page](screenshots/Loginpage.png)
+![Login Page](screenshots/login_page.png)
 
 ### Student Profile
-![Student Profile](screens/Student_Profile.png)
+![Student Profile](screenshots/student_profile.png)
+
+## Screenshots
+
