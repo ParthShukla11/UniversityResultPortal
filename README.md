@@ -90,16 +90,16 @@ Developed as a DBMS mini-project as part of the Bachelor of Technology in Comput
 ## Screenshots
 
 ### Faculty Dashboard
-![Faculty Dashboard](screenshots/Faculty-Dashboard.png)
+![Faculty Dashboard](screenshots/FacultyDashboard.png)
 
 ### Student Dashboard
-![Student Dashboard](screenshots/Student-Dashboard.png)
+![Student Dashboard](screenshots/StudentDashboard.png)
 
 ### Student Result
-![Student Result](screenshots/Student-Result.png)
+![Student Result](screenshots/StudentResult.png)
 
 ### Faculty Enter Marks
-![Faculty Enter Marks](screenshots/Faculty-Enter-Marks.png)
+![Faculty Enter Marks](screenshots/FacultyEnterMarks.png)
 
 ### Login Page
 ![Login Page](screenshots/Loginpage.png)
